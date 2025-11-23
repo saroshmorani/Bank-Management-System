@@ -18,20 +18,20 @@ This is a Bank Management System using Assembly Language (EMU8086 with MASM). Th
 
 ## Screenshots / Demo
 
-### Main View
-![Main View](demo/MainView.png)
+### Menu
+![Menu](demo/menu.png)
 ---
 ### New User
-![List of Sorts](demo/SortingList.png)
+![New User](demo/newuser.png)
 ---
 ### Existing User
-![Radix Sort Demo](demo/RadixSort.gif)
+![Existing User](demo/existinguser.png)
 ---
 ### Deposit, Withdraw, Show Operations
-![Bubble Sort About Menu](demo/BubbleSortAbout.png)
+![Deposit, Withdraw, Show Operations](demo/deposit,WithdrawandShow.png)
 ---
 ### Exit
-![Radix Sort Demo](demo/RadixSort.gif)
+![Exit](demo/exit.png)
 ---
 
 - ### Requirements
