@@ -35,8 +35,9 @@ This is a Bank Management System using Assembly Language (EMU8086 with MASM). Th
 ---
 
 - ### Requirements
-    - Assembly Language (Irvine32 library)
+    - MASM
     - EMU 8086
+    - Irvine32 library
 
 ## Future Improvements
 - ### Include checks for corrupted files and auto-create them when needed.
