@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Functions](#functions)
-- [Screenshots / Demo](#screenshots--demo)
+- [Screenshots](#screenshots--demo)
 - [Installation](#installation)
 - [Contributors](#contributors)
 
@@ -16,7 +16,7 @@ This is a Bank Management System using Assembly Language (EMU8086 with MASM). Th
 - Display customer details
 - Save, updates balance to file
 
-## Screenshots / Demo
+## Screenshots
 
 ### Menu
 ![Menu](demo/menu.png)
@@ -35,15 +35,12 @@ This is a Bank Management System using Assembly Language (EMU8086 with MASM). Th
 ---
 
 - ### Requirements
-    - Assembly Language
+    - Assembly Language (Irvine32 library)
     - EMU 8086
 
 ## Future Improvements
-- ### A Main Menu to select the type of algorithm to visualize.
-- ### Add more sorts.
-- ### Add more variety of algorithms (Shortest path, BFS etc.)
-- ### Implement visualizations for Data Structures
-    - This could just be another app on its own, maybe.
+- ### Include checks for missing/corrupted files and auto-create them when needed.
+- ### Add balance transfer, PIN change, and account deletion options.
 
 ## Contributors
 [![](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/201220275?&v=4&h=80&fit=cover&mask=circle&maxage=7d)](https://github.com/saroshmorani)
