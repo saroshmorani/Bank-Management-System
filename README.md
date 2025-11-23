@@ -43,6 +43,6 @@ This is a Bank Management System using Assembly Language (EMU8086 with MASM). Th
 - ### Add balance transfer, PIN change, and account deletion options.
 
 ## Contributors
-[![](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/201220275?&v=4&h=80&fit=cover&mask=circle&maxage=7d)](https://github.com/saroshmorani)
+[![](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/180005129?v=4&h=80&fit=cover&mask=circle&maxage=7d)](https://github.com/saroshmorani)
 [![](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/179925225?&v=4&h=80&fit=cover&mask=circle&maxage=7d)](http://github.com/AlyKazani04)
 [![](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/179925977?&v=4&h=80&fit=cover&mask=circle&maxage=7d)](https://github.com/eshalad01)
